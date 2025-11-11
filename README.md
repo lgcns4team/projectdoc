@@ -20,7 +20,14 @@ project/
 
 ## 주요 기능
 - 📝 체계적인 회의록 관리
+   - https://www.notion.so/2a5dfc11e76880e5b02bca29acb6a0e4?v=2a5dfc11e76881d0b77c000c1db2d88f&source=copy_link
 - 👨‍🏫 멘토링 일지 추적
+   - 김윤환 : https://stayonasdev.tistory.com/
+   - 김현우 : https://velog.io/@rlagusdn1210/posts
+   - 박근남 : https://velog.io/@gnp/series
+   - 임정민 : https://velog.io/@ri_mon/posts
+   - 장미랑 : https://velog.io/@orion_97/posts
+   - 김민재 : https://velog.io/@min_jae98/posts
 - 📚 프로젝트 문서화
 - 🔄 Git 기반 버전 관리
 - 📋 이슈 및 작업 추적
@@ -101,3 +108,4 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
