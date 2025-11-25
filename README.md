@@ -32,7 +32,7 @@ project/
 - 🔄 Git 기반 버전 관리
 - 📋 이슈 및 작업 추적
 - 📊 칸반 보드 (GitHub Projects)를 통한 작업 관리
-  - JIRA : https://vpdtn0604.atlassian.net/jira/software/projects/TEAM4/boards/35/backlog?selectedIssue=TEAM4-43
+  - JIRA : https://vpdtn0604.atlassian.net/?continue=https%3A%2F%2Fvpdtn0604.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10034&atlOrigin=eyJpIjoiNDYwNjk5MjRlNGQwNGRmMGEyNzYwNGYwM2M5OTVhMTciLCJwIjoiamlyYS1zb2Z0d2FyZSJ9
 
 ## 시작하기
 
@@ -109,6 +109,7 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
 
 
 
